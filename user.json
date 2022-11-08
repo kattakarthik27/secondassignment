@@ -1,0 +1,56 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "username": "Yeswanth",
+        "email": "yes@gmail.com",
+        "phone": "456765456",
+        "gender": "Male",
+        "age": "19",
+        "country": "Ind",
+        "state": "TS",
+        "city": "Hyd",
+        "pincode": "500037",
+        "password": "1234"
+      },
+      {
+        "username": "Gaurav",
+        "email": "malikgaurav080@gmail.com",
+        "phone": "+918791034774",
+        "age": "23",
+        "gender": "option1",
+        "country": "India",
+        "state": "Uttar Pradesh",
+        "city": "Bareilly",
+        "pincode": "243123",
+        "password": "1122",
+        "id": 2
+      }
+    ],
+  
+  
+    "transaction": [
+      {
+        "id": 1,
+        "transactionid": "55447788",
+        "fromuser": "karthik",
+        "touser": "yeswanth",
+        "date": "11/10/2022",
+        "amount": "5000",
+        "time": "02.45 PM",
+        "status": "Success",
+        "email": "karthik@gmail.com"
+      },
+      {
+        "transactionid": "gss",
+        "fromuser": "ryjyr",
+        "touser": "ryjs",
+        "date": "sryj",
+        "amount": "yrsjr",
+        "time": "yrsjs",
+        "status": "yrj",
+        "email": "ygyjs",
+        "id": 2
+      }
+    ]
+  }
